@@ -95,7 +95,7 @@ const mergeEvents = (eventDict, entityDict) => {
       hits: parseInt(`${entityHits || 0}`),
       avgHitDistance: parseInt(averageHitDistance.toFixed(0)),
       kills: parseInt(`${events?.killed?.length || 0}`),
-      accuracy: parseInt(accuracyCalc || "0"),
+      accuracy: Math.min(parseInt(accuracyCalc || "0"), 100),
       ...events,
     });
   }
@@ -110,14 +110,16 @@ const eventDict = buildEventDict(events);
 
 const mergedEventsDict = mergeEvents(eventDict, entityDictId);
 
+const missionMeta = {
+  name: data.missionName,
+  author: data.missionAuthor,
+  worldName: data.worldName,
+  time: new Date(data.times[0].systemTimeUTC).toLocaleString(),
+};
+
 const outputData = {
   stats: mergedEventsDict,
-  mission: {
-    name: data.missionName,
-    author: data.missionAuthor,
-    worldName: data.worldName,
-    time: new Date(data.times[0].systemTimeUTC).toLocaleString(),
-  },
+  mission: missionMeta,
 };
 
 fs.writeFileSync("./output/output.json", JSON.stringify(outputData, null, 2));
