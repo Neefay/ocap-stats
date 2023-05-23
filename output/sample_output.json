@@ -1,0 +1,3281 @@
+{
+  "stats": {
+    "ai": [
+      {
+        "id": 1,
+        "name": "Uzoma Traore",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 0,
+        "shotsFired": 16,
+        "hits": 1,
+        "avgHitDistance": 78,
+        "kills": 0,
+        "accuracy": 6,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 78
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Xhosas Sesay",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 2,
+        "shotsFired": 58,
+        "hits": 5,
+        "avgHitDistance": 30,
+        "kills": 0,
+        "accuracy": 9,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 32
+          },
+          {
+            "victim": 67,
+            "distance": 25
+          },
+          {
+            "victim": 67,
+            "distance": 30
+          },
+          {
+            "victim": 57,
+            "distance": 32
+          },
+          {
+            "victim": 57,
+            "distance": 32
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Diallo Yeboah",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 9,
+        "shotsFired": 53,
+        "hits": 5,
+        "avgHitDistance": 121,
+        "kills": 0,
+        "accuracy": 9,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 166
+          },
+          {
+            "victim": 67,
+            "distance": 159
+          },
+          {
+            "victim": 67,
+            "distance": 80
+          },
+          {
+            "victim": 157,
+            "distance": 74
+          },
+          {
+            "victim": 67,
+            "distance": 125
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Arali Dia",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 3,
+        "shotsFired": 114,
+        "hits": 5,
+        "avgHitDistance": 121,
+        "kills": 0,
+        "accuracy": 4,
+        "hit": [
+          {
+            "victim": 157,
+            "distance": 138
+          },
+          {
+            "victim": 157,
+            "distance": 138
+          },
+          {
+            "victim": 67,
+            "distance": 133
+          },
+          {
+            "victim": 67,
+            "distance": 102
+          },
+          {
+            "victim": 67,
+            "distance": 92
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Faraji Toure",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 3,
+        "shotsFired": 41,
+        "hits": 5,
+        "avgHitDistance": 122,
+        "kills": 0,
+        "accuracy": 12,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 143
+          },
+          {
+            "victim": 67,
+            "distance": 143
+          },
+          {
+            "victim": 67,
+            "distance": 132
+          },
+          {
+            "victim": 67,
+            "distance": 132
+          },
+          {
+            "victim": 67,
+            "distance": 61
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Xhosas Diop",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 4,
+        "shotsFired": 32,
+        "hits": 2,
+        "avgHitDistance": 36,
+        "kills": 0,
+        "accuracy": 6,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 34
+          },
+          {
+            "victim": 68,
+            "distance": 37
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Manu Okafor",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 0,
+        "shotsFired": 23,
+        "hits": 1,
+        "avgHitDistance": 110,
+        "kills": 0,
+        "accuracy": 4,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 110
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Razi Bah",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 4,
+        "shotsFired": 18,
+        "hits": 2,
+        "avgHitDistance": 99,
+        "kills": 0,
+        "accuracy": 11,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 142
+          },
+          {
+            "victim": 67,
+            "distance": 55
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Tamarius Sylla",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 0,
+        "shotsFired": 44,
+        "hits": 4,
+        "avgHitDistance": 174,
+        "kills": 0,
+        "accuracy": 9,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 212
+          },
+          {
+            "victim": 67,
+            "distance": 177
+          },
+          {
+            "victim": 67,
+            "distance": 86
+          },
+          {
+            "victim": 68,
+            "distance": 219
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Uland Sesay",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 3,
+        "shotsFired": 17,
+        "hits": 2,
+        "avgHitDistance": 62,
+        "kills": 0,
+        "accuracy": 12,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 65
+          },
+          {
+            "victim": 67,
+            "distance": 59
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Peabo Dia",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 2,
+        "shotsFired": 7,
+        "hits": 2,
+        "avgHitDistance": 14,
+        "kills": 0,
+        "accuracy": 29,
+        "hit": [
+          {
+            "victim": 57,
+            "distance": 14
+          },
+          {
+            "victim": 57,
+            "distance": 14
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Shontae Gueye",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 0,
+        "shotsFired": 12,
+        "hits": 2,
+        "avgHitDistance": 61,
+        "kills": 0,
+        "accuracy": 17,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 60
+          },
+          {
+            "victim": 67,
+            "distance": 61
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Orma Sy",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 6,
+        "shotsFired": 14,
+        "hits": 2,
+        "avgHitDistance": 29,
+        "kills": 0,
+        "accuracy": 14,
+        "hit": [
+          {
+            "victim": 58,
+            "distance": 29
+          },
+          {
+            "victim": 58,
+            "distance": 29
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Obiajulu Fofana",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 5,
+        "shotsFired": 93,
+        "hits": 2,
+        "avgHitDistance": 543,
+        "kills": 0,
+        "accuracy": 2,
+        "hit": [
+          {
+            "victim": 69,
+            "distance": 735
+          },
+          {
+            "victim": 69,
+            "distance": 351
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Veltry Sane",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 2,
+        "shotsFired": 65,
+        "hits": 2,
+        "avgHitDistance": 152,
+        "kills": 1,
+        "accuracy": 3,
+        "killed": [
+          {
+            "victim": 88,
+            "distance": 152
+          }
+        ],
+        "hit": [
+          {
+            "victim": 88,
+            "distance": 152
+          },
+          {
+            "victim": 88,
+            "distance": 152
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Kushan",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 443,
+        "shotsFired": 7,
+        "hits": 5,
+        "avgHitDistance": 98,
+        "kills": 0,
+        "accuracy": 71,
+        "hit": [
+          {
+            "victim": 59,
+            "distance": 114
+          },
+          {
+            "victim": 56,
+            "distance": 117
+          },
+          {
+            "victim": 56,
+            "distance": 117
+          },
+          {
+            "victim": 62,
+            "distance": 72
+          },
+          {
+            "victim": 62,
+            "distance": 72
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Aybak",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1132,
+        "shotsFired": 24,
+        "hits": 1,
+        "avgHitDistance": 142,
+        "kills": 0,
+        "accuracy": 4,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 142
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Adel",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 698,
+        "shotsFired": 7,
+        "hits": 1,
+        "avgHitDistance": 117,
+        "kills": 0,
+        "accuracy": 14,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 117
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Aybak",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1095,
+        "shotsFired": 13,
+        "hits": 2,
+        "avgHitDistance": 182,
+        "kills": 0,
+        "accuracy": 15,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 182
+          },
+          {
+            "victim": 68,
+            "distance": 182
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Amani",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1370,
+        "shotsFired": 20,
+        "hits": 1,
+        "avgHitDistance": 77,
+        "kills": 0,
+        "accuracy": 5,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 77
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Vashon Sylla",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 200,
+        "shotsFired": 5,
+        "hits": 2,
+        "avgHitDistance": 16,
+        "kills": 0,
+        "accuracy": 40,
+        "hit": [
+          {
+            "victim": 57,
+            "distance": 16
+          },
+          {
+            "victim": 57,
+            "distance": 16
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Kofi Sy",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 175,
+        "shotsFired": 1,
+        "hits": 8,
+        "avgHitDistance": 5,
+        "kills": 0,
+        "accuracy": 800,
+        "hit": [
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          },
+          {
+            "victim": 55,
+            "distance": 5
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Penda Ballo",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 481,
+        "shotsFired": 10,
+        "hits": 6,
+        "avgHitDistance": 107,
+        "kills": 0,
+        "accuracy": 60,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 151
+          },
+          {
+            "victim": 67,
+            "distance": 144
+          },
+          {
+            "victim": 157,
+            "distance": 141
+          },
+          {
+            "victim": 67,
+            "distance": 71
+          },
+          {
+            "victim": 67,
+            "distance": 71
+          },
+          {
+            "victim": 67,
+            "distance": 65
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Makalo Turay",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 540,
+        "shotsFired": 30,
+        "hits": 3,
+        "avgHitDistance": 57,
+        "kills": 0,
+        "accuracy": 10,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 56
+          },
+          {
+            "victim": 67,
+            "distance": 57
+          },
+          {
+            "victim": 67,
+            "distance": 57
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Chata Sall",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 437,
+        "shotsFired": 45,
+        "hits": 3,
+        "avgHitDistance": 81,
+        "kills": 0,
+        "accuracy": 7,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 97
+          },
+          {
+            "victim": 67,
+            "distance": 80
+          },
+          {
+            "victim": 67,
+            "distance": 65
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Sulaiman Fofana",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 161,
+        "shotsFired": 4,
+        "hits": 8,
+        "avgHitDistance": 12,
+        "kills": 0,
+        "accuracy": 200,
+        "hit": [
+          {
+            "victim": 57,
+            "distance": 13
+          },
+          {
+            "victim": 57,
+            "distance": 13
+          },
+          {
+            "victim": 57,
+            "distance": 13
+          },
+          {
+            "victim": 57,
+            "distance": 13
+          },
+          {
+            "victim": 57,
+            "distance": 10
+          },
+          {
+            "victim": 57,
+            "distance": 10
+          },
+          {
+            "victim": 57,
+            "distance": 10
+          },
+          {
+            "victim": 57,
+            "distance": 10
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Phornello Sylla",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1184,
+        "shotsFired": 10,
+        "hits": 1,
+        "avgHitDistance": 19,
+        "kills": 1,
+        "accuracy": 10,
+        "hit": [
+          {
+            "victim": 157,
+            "distance": 19
+          }
+        ],
+        "killed": [
+          {
+            "victim": 157,
+            "distance": 146
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Habibzai",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 508,
+        "shotsFired": 14,
+        "hits": 3,
+        "avgHitDistance": 74,
+        "kills": 0,
+        "accuracy": 21,
+        "hit": [
+          {
+            "victim": 62,
+            "distance": 74
+          },
+          {
+            "victim": 62,
+            "distance": 74
+          },
+          {
+            "victim": 62,
+            "distance": 74
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Gailani",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 132,
+        "shotsFired": 27,
+        "hits": 2,
+        "avgHitDistance": 25,
+        "kills": 0,
+        "accuracy": 7,
+        "hit": [
+          {
+            "victim": 55,
+            "distance": 25
+          },
+          {
+            "victim": 55,
+            "distance": 25
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "name": "Chata Jalloh",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 127,
+        "shotsFired": 15,
+        "hits": 1,
+        "avgHitDistance": 33,
+        "kills": 0,
+        "accuracy": 7,
+        "hit": [
+          {
+            "victim": 57,
+            "distance": 33
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Luister Okafor",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 177,
+        "shotsFired": 11,
+        "hits": 1,
+        "avgHitDistance": 17,
+        "kills": 0,
+        "accuracy": 9,
+        "hit": [
+          {
+            "victim": 55,
+            "distance": 17
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Shaquille Maalouf",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 521,
+        "shotsFired": 3,
+        "hits": 2,
+        "avgHitDistance": 155,
+        "kills": 0,
+        "accuracy": 67,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 156
+          },
+          {
+            "victim": 157,
+            "distance": 154
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Vul Yeboah",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 611,
+        "shotsFired": 8,
+        "hits": 1,
+        "avgHitDistance": 162,
+        "kills": 0,
+        "accuracy": 13,
+        "hit": [
+          {
+            "victim": 56,
+            "distance": 162
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Tavarius Osei",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 99,
+        "shotsFired": 3,
+        "hits": 1,
+        "avgHitDistance": 38,
+        "kills": 0,
+        "accuracy": 33,
+        "hit": [
+          {
+            "victim": 58,
+            "distance": 38
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Takhtar",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 318,
+        "shotsFired": 5,
+        "hits": 1,
+        "avgHitDistance": 106,
+        "kills": 0,
+        "accuracy": 20,
+        "hit": [
+          {
+            "victim": 56,
+            "distance": 106
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Noori",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 244,
+        "shotsFired": 0,
+        "hits": 1,
+        "avgHitDistance": 0,
+        "kills": 1,
+        "accuracy": 0,
+        "hit": [
+          {
+            "victim": 110,
+            "distance": 0
+          }
+        ],
+        "killed": [
+          {
+            "victim": 110,
+            "distance": 0
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Kaleb Yeboah",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 603,
+        "shotsFired": 46,
+        "hits": 10,
+        "avgHitDistance": 112,
+        "kills": 0,
+        "accuracy": 22,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 156
+          },
+          {
+            "victim": 67,
+            "distance": 152
+          },
+          {
+            "victim": 67,
+            "distance": 142
+          },
+          {
+            "victim": 67,
+            "distance": 142
+          },
+          {
+            "victim": 67,
+            "distance": 71
+          },
+          {
+            "victim": 67,
+            "distance": 78
+          },
+          {
+            "victim": 67,
+            "distance": 82
+          },
+          {
+            "victim": 67,
+            "distance": 89
+          },
+          {
+            "victim": 67,
+            "distance": 89
+          },
+          {
+            "victim": 63,
+            "distance": 122
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "name": "Marques Sarr",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 593,
+        "shotsFired": 14,
+        "hits": 1,
+        "avgHitDistance": 91,
+        "kills": 0,
+        "accuracy": 7,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 91
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "name": "Tabari Sane",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 540,
+        "shotsFired": 10,
+        "hits": 1,
+        "avgHitDistance": 211,
+        "kills": 0,
+        "accuracy": 10,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 211
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Kadeem Owusu",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 568,
+        "shotsFired": 10,
+        "hits": 1,
+        "avgHitDistance": 185,
+        "kills": 0,
+        "accuracy": 10,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 185
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Ibeamaka Diop",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 574,
+        "shotsFired": 16,
+        "hits": 2,
+        "avgHitDistance": 97,
+        "kills": 0,
+        "accuracy": 13,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 97
+          },
+          {
+            "victim": 67,
+            "distance": 97
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "name": "Tavon Sesay",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1161,
+        "shotsFired": 23,
+        "hits": 3,
+        "avgHitDistance": 23,
+        "kills": 1,
+        "accuracy": 13,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 70
+          },
+          {
+            "victim": 128,
+            "distance": 0
+          },
+          {
+            "victim": 128,
+            "distance": 0
+          }
+        ],
+        "killed": [
+          {
+            "victim": 128,
+            "distance": 0
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Mahdi Osei",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1059,
+        "shotsFired": 24,
+        "hits": 1,
+        "avgHitDistance": 71,
+        "kills": 0,
+        "accuracy": 4,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 71
+          }
+        ]
+      },
+      {
+        "id": 137,
+        "name": "Ebi Maalouf",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1171,
+        "shotsFired": 11,
+        "hits": 2,
+        "avgHitDistance": 318,
+        "kills": 0,
+        "accuracy": 18,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 318
+          },
+          {
+            "victim": 67,
+            "distance": 318
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "name": "Onaedo Sy",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 817,
+        "shotsFired": 13,
+        "hits": 2,
+        "avgHitDistance": 74,
+        "kills": 0,
+        "accuracy": 15,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 74
+          },
+          {
+            "victim": 157,
+            "distance": 74
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "name": "Obiajulu Sane",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 820,
+        "shotsFired": 16,
+        "hits": 4,
+        "avgHitDistance": 95,
+        "kills": 0,
+        "accuracy": 25,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 140
+          },
+          {
+            "victim": 67,
+            "distance": 86
+          },
+          {
+            "victim": 67,
+            "distance": 79
+          },
+          {
+            "victim": 67,
+            "distance": 73
+          }
+        ]
+      },
+      {
+        "id": 144,
+        "name": "Dewayne Okafor",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 667,
+        "shotsFired": 6,
+        "hits": 1,
+        "avgHitDistance": 86,
+        "kills": 0,
+        "accuracy": 17,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 86
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "name": "Chata Congo",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1323,
+        "shotsFired": 8,
+        "hits": 1,
+        "avgHitDistance": 0,
+        "kills": 0,
+        "accuracy": 13,
+        "hit": [
+          {
+            "victim": 145,
+            "distance": 0
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Okoth Sow",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 695,
+        "shotsFired": 14,
+        "hits": 2,
+        "avgHitDistance": 85,
+        "kills": 0,
+        "accuracy": 14,
+        "hit": [
+          {
+            "victim": 60,
+            "distance": 83
+          },
+          {
+            "victim": 60,
+            "distance": 86
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "name": "Jevonte Chahine",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 583,
+        "shotsFired": 16,
+        "hits": 2,
+        "avgHitDistance": 85,
+        "kills": 0,
+        "accuracy": 13,
+        "hit": [
+          {
+            "victim": 67,
+            "distance": 90
+          },
+          {
+            "victim": 67,
+            "distance": 79
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "name": "Yousuf",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1127,
+        "shotsFired": 37,
+        "hits": 2,
+        "avgHitDistance": 301,
+        "kills": 0,
+        "accuracy": 5,
+        "hit": [
+          {
+            "victim": 157,
+            "distance": 384
+          },
+          {
+            "victim": 68,
+            "distance": 218
+          }
+        ]
+      },
+      {
+        "id": 161,
+        "name": "Takhtar",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 1051,
+        "shotsFired": 36,
+        "hits": 1,
+        "avgHitDistance": 301,
+        "kills": 0,
+        "accuracy": 3,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 301
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Masood",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 867,
+        "shotsFired": 25,
+        "hits": 1,
+        "avgHitDistance": 320,
+        "kills": 0,
+        "accuracy": 4,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 320
+          }
+        ]
+      },
+      {
+        "id": 191,
+        "name": "Voshon Mensah",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 301,
+        "shotsFired": 22,
+        "hits": 1,
+        "avgHitDistance": 274,
+        "kills": 0,
+        "accuracy": 5,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 274
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "name": "Quannell Sane",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 225,
+        "shotsFired": 18,
+        "hits": 1,
+        "avgHitDistance": 311,
+        "kills": 0,
+        "accuracy": 6,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 311
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "name": "Uzoma Owusu",
+        "isPlayer": false,
+        "side": "EAST",
+        "type": "unit",
+        "totalMovement": 327,
+        "shotsFired": 47,
+        "hits": 7,
+        "avgHitDistance": 311,
+        "kills": 0,
+        "accuracy": 15,
+        "hit": [
+          {
+            "victim": 64,
+            "distance": 365
+          },
+          {
+            "victim": 68,
+            "distance": 366
+          },
+          {
+            "victim": 57,
+            "distance": 279
+          },
+          {
+            "victim": 57,
+            "distance": 279
+          },
+          {
+            "victim": 61,
+            "distance": 285
+          },
+          {
+            "victim": 68,
+            "distance": 303
+          },
+          {
+            "victim": 61,
+            "distance": 301
+          }
+        ]
+      },
+      {
+        "totalMovement": 0,
+        "shotsFired": 0,
+        "hits": 11,
+        "avgHitDistance": -1,
+        "kills": 2,
+        "accuracy": 0,
+        "killed": [
+          {
+            "victim": 89,
+            "distance": -1
+          },
+          {
+            "victim": 91,
+            "distance": -1
+          }
+        ],
+        "hit": [
+          {
+            "victim": 89,
+            "distance": -1
+          },
+          {
+            "victim": 91,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 157,
+            "distance": -1
+          },
+          {
+            "victim": 64,
+            "distance": -1
+          },
+          {
+            "victim": 64,
+            "distance": -1
+          }
+        ]
+      }
+    ],
+    "player": [
+      {
+        "id": 55,
+        "name": "(ISAF)heroes maker",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3503,
+        "shotsFired": 31,
+        "hits": 19,
+        "avgHitDistance": 68,
+        "kills": 9,
+        "accuracy": 61,
+        "killed": [
+          {
+            "victim": 43,
+            "distance": 18
+          },
+          {
+            "victim": 44,
+            "distance": 19
+          },
+          {
+            "victim": 105,
+            "distance": 35
+          },
+          {
+            "victim": 73,
+            "distance": 17
+          },
+          {
+            "victim": 75,
+            "distance": 7
+          },
+          {
+            "victim": 74,
+            "distance": 5
+          },
+          {
+            "victim": 103,
+            "distance": 119
+          },
+          {
+            "victim": 127,
+            "distance": 45
+          },
+          {
+            "victim": 201,
+            "distance": 271
+          }
+        ],
+        "hit": [
+          {
+            "victim": 43,
+            "distance": 18
+          },
+          {
+            "victim": 44,
+            "distance": 19
+          },
+          {
+            "victim": 105,
+            "distance": 35
+          },
+          {
+            "victim": 105,
+            "distance": 35
+          },
+          {
+            "victim": 105,
+            "distance": 35
+          },
+          {
+            "victim": 73,
+            "distance": 17
+          },
+          {
+            "victim": 73,
+            "distance": 17
+          },
+          {
+            "victim": 73,
+            "distance": 17
+          },
+          {
+            "victim": 75,
+            "distance": 7
+          },
+          {
+            "victim": 74,
+            "distance": 5
+          },
+          {
+            "victim": 74,
+            "distance": 5
+          },
+          {
+            "victim": 74,
+            "distance": 5
+          },
+          {
+            "victim": 70,
+            "distance": 118
+          },
+          {
+            "victim": 103,
+            "distance": 119
+          },
+          {
+            "victim": 103,
+            "distance": 119
+          },
+          {
+            "victim": 70,
+            "distance": 118
+          },
+          {
+            "victim": 127,
+            "distance": 45
+          },
+          {
+            "victim": 201,
+            "distance": 285
+          },
+          {
+            "victim": 201,
+            "distance": 271
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Engee",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 2765,
+        "shotsFired": 42,
+        "hits": 7,
+        "avgHitDistance": 118,
+        "kills": 3,
+        "accuracy": 17,
+        "killed": [
+          {
+            "victim": 130,
+            "distance": 144
+          },
+          {
+            "victim": 112,
+            "distance": 104
+          },
+          {
+            "victim": 72,
+            "distance": 119
+          }
+        ],
+        "hit": [
+          {
+            "victim": 130,
+            "distance": 144
+          },
+          {
+            "victim": 112,
+            "distance": 104
+          },
+          {
+            "victim": 109,
+            "distance": 103
+          },
+          {
+            "victim": 96,
+            "distance": 119
+          },
+          {
+            "victim": 72,
+            "distance": 119
+          },
+          {
+            "victim": 72,
+            "distance": 119
+          },
+          {
+            "victim": 72,
+            "distance": 119
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Stormbringer",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3403,
+        "shotsFired": 117,
+        "hits": 38,
+        "avgHitDistance": 53,
+        "kills": 18,
+        "accuracy": 32,
+        "hit": [
+          {
+            "victim": 45,
+            "distance": 28
+          },
+          {
+            "victim": 45,
+            "distance": 28
+          },
+          {
+            "victim": 46,
+            "distance": 27
+          },
+          {
+            "victim": 105,
+            "distance": 37
+          },
+          {
+            "victim": 105,
+            "distance": 37
+          },
+          {
+            "victim": 99,
+            "distance": 33
+          },
+          {
+            "victim": 99,
+            "distance": 33
+          },
+          {
+            "victim": 98,
+            "distance": 28
+          },
+          {
+            "victim": 100,
+            "distance": 22
+          },
+          {
+            "victim": 108,
+            "distance": 61
+          },
+          {
+            "victim": 26,
+            "distance": 41
+          },
+          {
+            "victim": 41,
+            "distance": 122
+          },
+          {
+            "victim": 31,
+            "distance": 102
+          },
+          {
+            "victim": 31,
+            "distance": 102
+          },
+          {
+            "victim": 85,
+            "distance": 10
+          },
+          {
+            "victim": 26,
+            "distance": 8
+          },
+          {
+            "victim": 26,
+            "distance": 8
+          },
+          {
+            "victim": 26,
+            "distance": 8
+          },
+          {
+            "victim": 111,
+            "distance": 44
+          },
+          {
+            "victim": 40,
+            "distance": 146
+          },
+          {
+            "victim": 0,
+            "distance": 58
+          },
+          {
+            "victim": 0,
+            "distance": 58
+          },
+          {
+            "victim": 0,
+            "distance": 58
+          },
+          {
+            "victim": 2,
+            "distance": 70
+          },
+          {
+            "victim": 2,
+            "distance": 70
+          },
+          {
+            "victim": 80,
+            "distance": 46
+          },
+          {
+            "victim": 6,
+            "distance": 43
+          },
+          {
+            "victim": 7,
+            "distance": 32
+          },
+          {
+            "victim": 128,
+            "distance": 63
+          },
+          {
+            "victim": 78,
+            "distance": 28
+          },
+          {
+            "victim": 79,
+            "distance": 29
+          },
+          {
+            "victim": 111,
+            "distance": 9
+          },
+          {
+            "victim": 22,
+            "distance": 121
+          },
+          {
+            "victim": 3,
+            "distance": 30
+          },
+          {
+            "victim": 5,
+            "distance": 61
+          },
+          {
+            "victim": 5,
+            "distance": 61
+          },
+          {
+            "victim": 92,
+            "distance": 117
+          },
+          {
+            "victim": 92,
+            "distance": 117
+          }
+        ],
+        "killed": [
+          {
+            "victim": 45,
+            "distance": 28
+          },
+          {
+            "victim": 46,
+            "distance": 27
+          },
+          {
+            "victim": 99,
+            "distance": 33
+          },
+          {
+            "victim": 41,
+            "distance": 122
+          },
+          {
+            "victim": 31,
+            "distance": 102
+          },
+          {
+            "victim": 85,
+            "distance": 10
+          },
+          {
+            "victim": 26,
+            "distance": 8
+          },
+          {
+            "victim": 40,
+            "distance": 146
+          },
+          {
+            "victim": 0,
+            "distance": 57
+          },
+          {
+            "victim": 2,
+            "distance": 70
+          },
+          {
+            "victim": 80,
+            "distance": 46
+          },
+          {
+            "victim": 6,
+            "distance": 44
+          },
+          {
+            "victim": 78,
+            "distance": 28
+          },
+          {
+            "victim": 79,
+            "distance": 29
+          },
+          {
+            "victim": 111,
+            "distance": 9
+          },
+          {
+            "victim": 22,
+            "distance": 121
+          },
+          {
+            "victim": 3,
+            "distance": 30
+          },
+          {
+            "victim": 5,
+            "distance": 61
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Rusty Shacklford",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3191,
+        "shotsFired": 56,
+        "hits": 27,
+        "avgHitDistance": 52,
+        "kills": 15,
+        "accuracy": 48,
+        "killed": [
+          {
+            "victim": 106,
+            "distance": 37
+          },
+          {
+            "victim": 107,
+            "distance": 38
+          },
+          {
+            "victim": 100,
+            "distance": 21
+          },
+          {
+            "victim": 97,
+            "distance": 22
+          },
+          {
+            "victim": 98,
+            "distance": 24
+          },
+          {
+            "victim": 108,
+            "distance": 23
+          },
+          {
+            "victim": 95,
+            "distance": 118
+          },
+          {
+            "victim": 96,
+            "distance": 121
+          },
+          {
+            "victim": 35,
+            "distance": 29
+          },
+          {
+            "victim": 147,
+            "distance": 48
+          },
+          {
+            "victim": 146,
+            "distance": 58
+          },
+          {
+            "victim": 33,
+            "distance": 8
+          },
+          {
+            "victim": 136,
+            "distance": 122
+          },
+          {
+            "victim": 13,
+            "distance": 31
+          },
+          {
+            "victim": 8,
+            "distance": 38
+          }
+        ],
+        "hit": [
+          {
+            "victim": 106,
+            "distance": 37
+          },
+          {
+            "victim": 107,
+            "distance": 38
+          },
+          {
+            "victim": 107,
+            "distance": 38
+          },
+          {
+            "victim": 100,
+            "distance": 21
+          },
+          {
+            "victim": 97,
+            "distance": 22
+          },
+          {
+            "victim": 98,
+            "distance": 24
+          },
+          {
+            "victim": 108,
+            "distance": 23
+          },
+          {
+            "victim": 76,
+            "distance": 12
+          },
+          {
+            "victim": 95,
+            "distance": 118
+          },
+          {
+            "victim": 109,
+            "distance": 110
+          },
+          {
+            "victim": 96,
+            "distance": 121
+          },
+          {
+            "victim": 96,
+            "distance": 121
+          },
+          {
+            "victim": 35,
+            "distance": 29
+          },
+          {
+            "victim": 35,
+            "distance": 29
+          },
+          {
+            "victim": 35,
+            "distance": 29
+          },
+          {
+            "victim": 147,
+            "distance": 48
+          },
+          {
+            "victim": 147,
+            "distance": 48
+          },
+          {
+            "victim": 146,
+            "distance": 58
+          },
+          {
+            "victim": 146,
+            "distance": 58
+          },
+          {
+            "victim": 33,
+            "distance": 8
+          },
+          {
+            "victim": 141,
+            "distance": 119
+          },
+          {
+            "victim": 136,
+            "distance": 122
+          },
+          {
+            "victim": 13,
+            "distance": 31
+          },
+          {
+            "victim": 13,
+            "distance": 31
+          },
+          {
+            "victim": 13,
+            "distance": 31
+          },
+          {
+            "victim": 13,
+            "distance": 31
+          },
+          {
+            "victim": 8,
+            "distance": 38
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Lobrau",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 5553,
+        "shotsFired": 478,
+        "hits": 22,
+        "avgHitDistance": 187,
+        "kills": 7,
+        "accuracy": 5,
+        "hit": [
+          {
+            "victim": 50,
+            "distance": 179
+          },
+          {
+            "victim": 47,
+            "distance": 193
+          },
+          {
+            "victim": 93,
+            "distance": 261
+          },
+          {
+            "victim": 129,
+            "distance": 221
+          },
+          {
+            "victim": 129,
+            "distance": 221
+          },
+          {
+            "victim": 50,
+            "distance": 201
+          },
+          {
+            "victim": 132,
+            "distance": 221
+          },
+          {
+            "victim": 132,
+            "distance": 221
+          },
+          {
+            "victim": 132,
+            "distance": 221
+          },
+          {
+            "victim": 132,
+            "distance": 221
+          },
+          {
+            "victim": 132,
+            "distance": 220
+          },
+          {
+            "victim": 109,
+            "distance": 135
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 131,
+            "distance": 130
+          },
+          {
+            "victim": 131,
+            "distance": 130
+          },
+          {
+            "victim": 104,
+            "distance": 220
+          },
+          {
+            "victim": 190,
+            "distance": 281
+          },
+          {
+            "victim": 190,
+            "distance": 281
+          }
+        ],
+        "killed": [
+          {
+            "victim": 93,
+            "distance": 261
+          },
+          {
+            "victim": 50,
+            "distance": 201
+          },
+          {
+            "victim": 132,
+            "distance": 220
+          },
+          {
+            "victim": 109,
+            "distance": 135
+          },
+          {
+            "victim": 49,
+            "distance": 111
+          },
+          {
+            "victim": 131,
+            "distance": 130
+          },
+          {
+            "victim": 104,
+            "distance": 220
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Nife",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3206,
+        "shotsFired": 55,
+        "hits": 5,
+        "avgHitDistance": 15,
+        "kills": 1,
+        "accuracy": 9,
+        "hit": [
+          {
+            "victim": 55,
+            "distance": 11
+          },
+          {
+            "victim": 28,
+            "distance": 2
+          },
+          {
+            "victim": 29,
+            "distance": 22
+          },
+          {
+            "victim": 29,
+            "distance": 20
+          },
+          {
+            "victim": 29,
+            "distance": 20
+          }
+        ],
+        "killed": [
+          {
+            "victim": 28,
+            "distance": 2
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Quizno",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3285,
+        "shotsFired": 165,
+        "hits": 10,
+        "avgHitDistance": 103,
+        "kills": 5,
+        "accuracy": 6,
+        "hit": [
+          {
+            "victim": 126,
+            "distance": 221
+          },
+          {
+            "victim": 144,
+            "distance": 80
+          },
+          {
+            "victim": 133,
+            "distance": 136
+          },
+          {
+            "victim": 94,
+            "distance": 74
+          },
+          {
+            "victim": 94,
+            "distance": 74
+          },
+          {
+            "victim": 94,
+            "distance": 69
+          },
+          {
+            "victim": 141,
+            "distance": 128
+          },
+          {
+            "victim": 101,
+            "distance": 161
+          },
+          {
+            "victim": 68,
+            "distance": 43
+          },
+          {
+            "victim": 68,
+            "distance": 43
+          }
+        ],
+        "killed": [
+          {
+            "victim": 144,
+            "distance": 81
+          },
+          {
+            "victim": 133,
+            "distance": 136
+          },
+          {
+            "victim": 94,
+            "distance": 69
+          },
+          {
+            "victim": 141,
+            "distance": 128
+          },
+          {
+            "victim": 101,
+            "distance": 161
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Mancakefacepan",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 3192,
+        "shotsFired": 249,
+        "hits": 35,
+        "avgHitDistance": 168,
+        "kills": 12,
+        "accuracy": 14,
+        "killed": [
+          {
+            "victim": 86,
+            "distance": 14
+          },
+          {
+            "victim": 87,
+            "distance": 18
+          },
+          {
+            "victim": 76,
+            "distance": 19
+          },
+          {
+            "victim": 42,
+            "distance": 205
+          },
+          {
+            "victim": 47,
+            "distance": 200
+          },
+          {
+            "victim": 129,
+            "distance": 221
+          },
+          {
+            "victim": 48,
+            "distance": 205
+          },
+          {
+            "victim": 37,
+            "distance": 39
+          },
+          {
+            "victim": 32,
+            "distance": 82
+          },
+          {
+            "victim": 25,
+            "distance": 50
+          },
+          {
+            "victim": 102,
+            "distance": 189
+          },
+          {
+            "victim": 117,
+            "distance": 122
+          }
+        ],
+        "hit": [
+          {
+            "victim": 86,
+            "distance": 14
+          },
+          {
+            "victim": 86,
+            "distance": 14
+          },
+          {
+            "victim": 87,
+            "distance": 18
+          },
+          {
+            "victim": 76,
+            "distance": 19
+          },
+          {
+            "victim": 76,
+            "distance": 19
+          },
+          {
+            "victim": 42,
+            "distance": 205
+          },
+          {
+            "victim": 47,
+            "distance": 197
+          },
+          {
+            "victim": 47,
+            "distance": 197
+          },
+          {
+            "victim": 47,
+            "distance": 200
+          },
+          {
+            "victim": 47,
+            "distance": 200
+          },
+          {
+            "victim": 47,
+            "distance": 200
+          },
+          {
+            "victim": 129,
+            "distance": 221
+          },
+          {
+            "victim": 131,
+            "distance": 231
+          },
+          {
+            "victim": 48,
+            "distance": 201
+          },
+          {
+            "victim": 48,
+            "distance": 201
+          },
+          {
+            "victim": 48,
+            "distance": 205
+          },
+          {
+            "victim": 72,
+            "distance": 204
+          },
+          {
+            "victim": 130,
+            "distance": 205
+          },
+          {
+            "victim": 72,
+            "distance": 204
+          },
+          {
+            "victim": 130,
+            "distance": 205
+          },
+          {
+            "victim": 130,
+            "distance": 205
+          },
+          {
+            "victim": 37,
+            "distance": 39
+          },
+          {
+            "victim": 32,
+            "distance": 82
+          },
+          {
+            "victim": 25,
+            "distance": 50
+          },
+          {
+            "victim": 25,
+            "distance": 50
+          },
+          {
+            "victim": 102,
+            "distance": 189
+          },
+          {
+            "victim": 102,
+            "distance": 189
+          },
+          {
+            "victim": 102,
+            "distance": 189
+          },
+          {
+            "victim": 117,
+            "distance": 122
+          },
+          {
+            "victim": 117,
+            "distance": 122
+          },
+          {
+            "victim": 201,
+            "distance": 296
+          },
+          {
+            "victim": 201,
+            "distance": 296
+          },
+          {
+            "victim": 201,
+            "distance": 296
+          },
+          {
+            "victim": 201,
+            "distance": 296
+          },
+          {
+            "victim": 201,
+            "distance": 296
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Royal",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 18871,
+        "shotsFired": 0,
+        "hits": 45,
+        "avgHitDistance": 1,
+        "kills": 1,
+        "accuracy": 0,
+        "hit": [
+          {
+            "victim": 68,
+            "distance": 2
+          },
+          {
+            "victim": 56,
+            "distance": 2
+          },
+          {
+            "victim": 68,
+            "distance": 2
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 64,
+            "distance": 0
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          },
+          {
+            "victim": 59,
+            "distance": 1
+          }
+        ],
+        "killed": [
+          {
+            "victim": 68,
+            "distance": 2
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Coryf88",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 26232,
+        "shotsFired": 0,
+        "hits": 57,
+        "avgHitDistance": 347,
+        "kills": 45,
+        "accuracy": 0,
+        "killed": [
+          {
+            "victim": 126,
+            "distance": 482
+          },
+          {
+            "victim": 124,
+            "distance": 502
+          },
+          {
+            "victim": 121,
+            "distance": 501
+          },
+          {
+            "victim": 122,
+            "distance": 502
+          },
+          {
+            "victim": 123,
+            "distance": 510
+          },
+          {
+            "victim": 84,
+            "distance": 404
+          },
+          {
+            "victim": 81,
+            "distance": 400
+          },
+          {
+            "victim": 82,
+            "distance": 405
+          },
+          {
+            "victim": 83,
+            "distance": 402
+          },
+          {
+            "victim": 116,
+            "distance": 385
+          },
+          {
+            "victim": 113,
+            "distance": 410
+          },
+          {
+            "victim": 114,
+            "distance": 399
+          },
+          {
+            "victim": 115,
+            "distance": 393
+          },
+          {
+            "victim": 118,
+            "distance": 387
+          },
+          {
+            "victim": 119,
+            "distance": 386
+          },
+          {
+            "victim": 148,
+            "distance": 293
+          },
+          {
+            "victim": 120,
+            "distance": 312
+          },
+          {
+            "victim": 125,
+            "distance": 300
+          },
+          {
+            "victim": 16,
+            "distance": 228
+          },
+          {
+            "victim": 77,
+            "distance": 158
+          },
+          {
+            "victim": 19,
+            "distance": 171
+          },
+          {
+            "victim": 142,
+            "distance": 335
+          },
+          {
+            "victim": 143,
+            "distance": 274
+          },
+          {
+            "victim": 135,
+            "distance": 287
+          },
+          {
+            "victim": 52,
+            "distance": 247
+          },
+          {
+            "victim": 70,
+            "distance": 148
+          },
+          {
+            "victim": 200,
+            "distance": 521
+          },
+          {
+            "victim": 197,
+            "distance": 524
+          },
+          {
+            "victim": 191,
+            "distance": 487
+          },
+          {
+            "victim": 193,
+            "distance": 491
+          },
+          {
+            "victim": 190,
+            "distance": 455
+          },
+          {
+            "victim": 199,
+            "distance": 275
+          },
+          {
+            "victim": 195,
+            "distance": 271
+          },
+          {
+            "victim": 196,
+            "distance": 268
+          },
+          {
+            "victim": 198,
+            "distance": 271
+          },
+          {
+            "victim": 137,
+            "distance": 418
+          },
+          {
+            "victim": 194,
+            "distance": 397
+          },
+          {
+            "victim": 167,
+            "distance": 469
+          },
+          {
+            "victim": 168,
+            "distance": 454
+          },
+          {
+            "victim": 184,
+            "distance": 306
+          },
+          {
+            "victim": 140,
+            "distance": 305
+          },
+          {
+            "victim": 174,
+            "distance": 168
+          },
+          {
+            "victim": 192,
+            "distance": 410
+          },
+          {
+            "victim": 183,
+            "distance": 335
+          },
+          {
+            "victim": 185,
+            "distance": 283
+          }
+        ],
+        "hit": [
+          {
+            "victim": 126,
+            "distance": 482
+          },
+          {
+            "victim": 124,
+            "distance": 502
+          },
+          {
+            "victim": 121,
+            "distance": 501
+          },
+          {
+            "victim": 122,
+            "distance": 502
+          },
+          {
+            "victim": 123,
+            "distance": 510
+          },
+          {
+            "victim": 113,
+            "distance": 446
+          },
+          {
+            "victim": 83,
+            "distance": 397
+          },
+          {
+            "victim": 82,
+            "distance": 399
+          },
+          {
+            "victim": 81,
+            "distance": 394
+          },
+          {
+            "victim": 84,
+            "distance": 399
+          },
+          {
+            "victim": 113,
+            "distance": 440
+          },
+          {
+            "victim": 116,
+            "distance": 385
+          },
+          {
+            "victim": 113,
+            "distance": 410
+          },
+          {
+            "victim": 115,
+            "distance": 388
+          },
+          {
+            "victim": 114,
+            "distance": 394
+          },
+          {
+            "victim": 119,
+            "distance": 382
+          },
+          {
+            "victim": 118,
+            "distance": 383
+          },
+          {
+            "victim": 120,
+            "distance": 367
+          },
+          {
+            "victim": 148,
+            "distance": 293
+          },
+          {
+            "victim": 128,
+            "distance": 271
+          },
+          {
+            "victim": 127,
+            "distance": 258
+          },
+          {
+            "victim": 78,
+            "distance": 262
+          },
+          {
+            "victim": 79,
+            "distance": 260
+          },
+          {
+            "victim": 77,
+            "distance": 265
+          },
+          {
+            "victim": 125,
+            "distance": 300
+          },
+          {
+            "victim": 67,
+            "distance": 266
+          },
+          {
+            "victim": 16,
+            "distance": 223
+          },
+          {
+            "victim": 19,
+            "distance": 171
+          },
+          {
+            "victim": 142,
+            "distance": 335
+          },
+          {
+            "victim": 143,
+            "distance": 274
+          },
+          {
+            "victim": 135,
+            "distance": 287
+          },
+          {
+            "victim": 52,
+            "distance": 253
+          },
+          {
+            "victim": 52,
+            "distance": 247
+          },
+          {
+            "victim": 62,
+            "distance": 260
+          },
+          {
+            "victim": 70,
+            "distance": 148
+          },
+          {
+            "victim": 92,
+            "distance": 149
+          },
+          {
+            "victim": 92,
+            "distance": 149
+          },
+          {
+            "victim": 200,
+            "distance": 518
+          },
+          {
+            "victim": 197,
+            "distance": 521
+          },
+          {
+            "victim": 190,
+            "distance": 484
+          },
+          {
+            "victim": 191,
+            "distance": 484
+          },
+          {
+            "victim": 193,
+            "distance": 491
+          },
+          {
+            "victim": 199,
+            "distance": 275
+          },
+          {
+            "victim": 195,
+            "distance": 271
+          },
+          {
+            "victim": 198,
+            "distance": 265
+          },
+          {
+            "victim": 196,
+            "distance": 261
+          },
+          {
+            "victim": 137,
+            "distance": 418
+          },
+          {
+            "victim": 194,
+            "distance": 397
+          },
+          {
+            "victim": 167,
+            "distance": 469
+          },
+          {
+            "victim": 168,
+            "distance": 454
+          },
+          {
+            "victim": 184,
+            "distance": 306
+          },
+          {
+            "victim": 192,
+            "distance": 306
+          },
+          {
+            "victim": 140,
+            "distance": 305
+          },
+          {
+            "victim": 174,
+            "distance": 168
+          },
+          {
+            "victim": 192,
+            "distance": 410
+          },
+          {
+            "victim": 183,
+            "distance": 330
+          },
+          {
+            "victim": 185,
+            "distance": 283
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "name": ".gif",
+        "isPlayer": true,
+        "side": "WEST",
+        "type": "unit",
+        "totalMovement": 5207,
+        "shotsFired": 0,
+        "hits": 14,
+        "avgHitDistance": 0,
+        "kills": 1,
+        "accuracy": 0,
+        "killed": [
+          {
+            "victim": 67,
+            "distance": 2
+          }
+        ],
+        "hit": [
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 67,
+            "distance": 2
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          },
+          {
+            "victim": 157,
+            "distance": 0
+          }
+        ]
+      }
+    ]
+  },
+  "mission": {
+    "name": "> CO 15 - The Gaggle v4",
+    "author": "Royalito",
+    "worldName": "porto",
+    "time": "22/05/2023, 20:16:23"
+  }
+}
